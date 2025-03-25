@@ -1,13 +1,12 @@
-# About me
-### I'm a passionate computer engineering student who's diving deep into the world of technology and software development. Currently, my focus is on mastering Java programming language while exploring various aspects of computer engineering.
-## My Interests
-<ul>
-  <li>Java Development: I'm enthusiastic about honing my skills in Java and exploring its vast ecosystem for building robust and scalable applications.</li>
-  <li>Algorithms and Data Structures: I enjoy solving algorithmic problems and implementing data structures to improve my problem-solving skills.</li>
-  <li>Software Engineering: I'm intrigued by the software development lifecycle, including design patterns, version control, and agile methodologies.
-</li>
-</ul>
+# About Me  
 
+I'm a passionate **Computer Engineering student** diving deep into the world of technology and software development. Currently, my focus is on mastering **Django for backend development**, while exploring various aspects of **full-stack web development**.  
 
+## My Interests  
 
+- **Django Development**: I’m passionate about building scalable and efficient web applications using Django, following best practices in backend development.  
+- **Web Technologies**: I enjoy working with **HTML, CSS**, and **Bootstrap** for frontend design while integrating them seamlessly with Django.  
+- **Database Management**: Exploring **PostgreSQL and SQLite** for handling data efficiently in Django applications.  
+- **Software Engineering**: I'm interested in the **software development lifecycle**, including **REST API design, version control (Git/GitHub), and agile methodologies**.  
 
+I’m continuously learning and working on exciting projects to improve my skills. Let's connect and collaborate! 🚀  
